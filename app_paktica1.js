@@ -362,8 +362,8 @@
 // thirdTask();
 
 //++++++++++++++++++ Елочка із 5 строк ++++++++++++++++++
-const lines = 10;
-let result = '';
+// const lines = 10;
+// let result = '';
 
 // for (let i = 1; i <= lines; i++) {
 // 	for (let j = 1; j <= lines - i; j++) {

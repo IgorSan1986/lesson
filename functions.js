@@ -141,4 +141,24 @@
 
 // ====================== Методы и свойства строк и чисел ======================
 
-const str = 'test';
+// const str = 'application';
+
+// console.log(str.toUpperCase()); // все буквы БОЛЬШИЕ
+// console.log(str.toLowerCase()); // все буквы с маленькой буквы
+// console.log(str.length);
+
+// const fruit = 'Some fruit';
+// console.log(fruit.indexOf('fruit'));
+
+// const logg = 'Doing my first application!';
+
+// console.log(logg.indexOf('application'));
+// console.log(logg.slice(15, 26));
+// console.log(logg.substring(15, 26));
+// console.log(logg.substr(15, 11)); // сколько символов необходимо вырезать
+
+// const num = 12.2;
+// const numPx = '12.2px'
+// console.log(Math.round(num));
+// console.log(parseInt(numPx));
+// console.log(parseFloat(numPx));
